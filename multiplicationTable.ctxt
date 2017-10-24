@@ -1,5 +1,7 @@
 #BlueJ class context
-comment0.target=multiplicationTable
+comment0.target=MultiplicationTable
 comment1.params=args
 comment1.target=void\ main(java.lang.String[])
-numComments=2
+comment2.params=tableSize
+comment2.target=void\ printMultiplicationTable(int)
+numComments=3
